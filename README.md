@@ -10,16 +10,17 @@ Import the movie training set and test set data (film_train.csv and film_test.cs
 Use the count() method to perform an initial check on the data to ensure data integrity.
 
 2.Data Visualization
- 1.Distribution of Movie Languages:
+
+Distribution of Movie Languages:
 Analyze the original languages of the movies using grouping and counting, and plot a bar chart to display the number of movies in each language.
 
- 2.Popularity and Income Relationship:
+Popularity and Income Relationship:
 Draw a scatter plot to show the relationship between popularity and income.
 
- 3.Count the number of movies by country:
+Count the number of movies by country:
 Parse the production_countries column, extract the main production countries, and draw a horizontal bar chart of the number of movies in the top 20 countries.
 
- 4.Count the number of movies by company:
+Count the number of movies by company:
 
 Parse the production_companies column, extract the major production companies, and draw a horizontal bar chart of the number of movies by the top 20 companies.
 
